@@ -19,3 +19,5 @@ scanf("%d", &num2);
 What happens to these changes?
 echo
 echo
+echo
+emergency fix
