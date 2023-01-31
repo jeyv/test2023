@@ -1,0 +1,19 @@
+int num1=0, num2=0;
+scanf("%d%d", &num1, &num2);
+
+int num1=0, num2=0;
+scanf("%d", &num1);
+scanf("%d", &num2);
+
+5 10
+
+5 
+10
+
+5
+
+
+
+10
+
+What happens to these changes?
