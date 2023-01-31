@@ -1,1 +1,2 @@
 Just to show handling of multiple files.
+echo

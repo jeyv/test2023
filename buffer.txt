@@ -17,3 +17,4 @@ scanf("%d", &num2);
 10
 
 What happens to these changes?
+echo
